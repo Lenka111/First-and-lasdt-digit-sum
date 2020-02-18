@@ -1,4 +1,4 @@
-# First-and-lasdt-digit-sum
+# First-and-last-digit-sum
 The sum of the first and last digit of a number
 
 The program finds the first and the last digit of the parameter number passed to the method,
